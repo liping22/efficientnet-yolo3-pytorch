@@ -4,7 +4,7 @@
 ## 目录
 1. [Environment](#Environment)
 2. [How to train](#How to train)
-3. [预测步骤 How2predict](#预测步骤)
+3. [预测步骤 How2predict](#How to train)
 4. [预测步骤 How2predict](#预测步骤)
 
 
@@ -12,7 +12,7 @@
 torch == 1.2.0
 
 ## How to train
-### 训练自己的数据集
+训练自己的数据集
 1. 数据集的准备  
 **本文使用VOC格式进行训练，训练前需要自己制作好数据集，**    
 训练前将标签文件放在VOCdevkit文件夹下的VOC2007文件夹下的Annotation中。   
