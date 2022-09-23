@@ -3,7 +3,7 @@
 
 ## 目录
 1. [Environment](#Environment)
-2. [How2train](#How to train)
+2. [How to train](#How to train)
 3. 
 4. 
 5. 
