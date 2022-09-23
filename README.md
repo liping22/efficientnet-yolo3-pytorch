@@ -13,7 +13,7 @@ torch == 1.2.0
 
 ## How to train
 训练自己的数据集
-1. 数据集的准备  
+1. Data sets  
 **本文使用VOC格式进行训练，训练前需要自己制作好数据集，**    
 训练前将标签文件放在VOCdevkit文件夹下的VOC2007文件夹下的Annotation中。   
 训练前将图片文件放在VOCdevkit文件夹下的VOC2007文件夹下的JPEGImages中。   
