@@ -4,17 +4,12 @@
 ## 目录
 1. [Environment](#Environment)
 2. [How to train](#How to train)
-3. 
-4. 
-5. 
-6. 
-7. [预测步骤 How2predict](#预测步骤)
+3. [预测步骤 How2predict](#预测步骤)
+4. [预测步骤 How2predict](#预测步骤)
 
 
 ## Environment
 torch == 1.2.0
-
- 
 
 ## How to train
 ### 训练自己的数据集
